@@ -16,7 +16,7 @@ clear
 pkg install toilet -y
 clear
 echo -e ""
-toilet --filter metal 'WHATSAPP NUMBER BANNING BY MEZO☠'
+toilet --filter metal 'WHATSAPP NUMBER BANNING BY MEZO☠ +967 774217099'
 sleep 7
 echo -e "             $white  coded by$blue ${underline}MeZo☠"
 echo ""
